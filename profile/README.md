@@ -191,12 +191,25 @@ The following standards are non-negotiable in every project under this organisat
 
 ## GitHub Activity
 
+### tombomeke-ehb
+
 <div align="center">
 
 ![GitHub Stats](stats.svg)
 ![Top Languages](top-langs.svg)
 
 ![Contribution Streak](https://streak-stats.demolab.com?user=tombomeke-ehb&theme=github-dark-blue&hide_border=true)
+
+</div>
+
+### tombomeke
+
+<div align="center">
+
+![GitHub Stats](tombomeke-stats.svg)
+![Top Languages](tombomeke-top-langs.svg)
+
+![Contribution Streak](https://streak-stats.demolab.com?user=tombomeke&theme=github-dark-blue&hide_border=true)
 
 </div>
 
