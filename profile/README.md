@@ -196,7 +196,7 @@ The following standards are non-negotiable in every project under this organisat
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tombomeke-ehb&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tombomeke-ehb&layout=compact&theme=github_dark&hide_border=true)
 
-![Contribution Streak](https://github-readme-streak-stats.vercel.app?user=tombomeke-ehb&theme=github-dark-blue&hide_border=true)
+![Contribution Streak](https://streak-stats.demolab.com?user=tombomeke-ehb&theme=github-dark-blue&hide_border=true)
 
 </div>
 
