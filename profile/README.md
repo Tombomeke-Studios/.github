@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Tombomeke%20Studios&fontSize=52&fontColor=e94560&fontAlignY=38&desc=Engineering%20Excellence%20in%20Applied%20Informatics&descAlignY=60&descSize=18&descColor=a8b2d8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Tombomeke%20Studios&fontSize=52&fontColor=e94560&fontAlignY=38&desc=Engineering%20Excellence%20in%20Applied%20Informatics&descAlignY=60&descSize=18&descColor=a8b2d8" alt="Tombomeke Studios header banner – Engineering Excellence in Applied Informatics" />
 
 <br/>
 
@@ -27,14 +27,40 @@ Every project in this organisation is driven by a commitment to **Clean Architec
 
 <div align="center">
 
-| Domain | Technologies |
-|---|---|
-| **Enterprise Backend** | C# · .NET 8 · ASP.NET · REST APIs |
-| **Frontend Engineering** | TypeScript · Vue 3 · Pinia · Vite |
-| **AI & Cloud** | Google Cloud Document AI · OCR · LLM Integration |
-| **Developer Tooling** | .NET CLI · NuGet · GitHub Actions |
-| **Software Design** | Clean Architecture · SOLID · DDD · MAUI |
-| **Scripting & Data** | Python · JavaScript · JSON · PHP |
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Technologies</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Enterprise Backend</strong></td>
+      <td>C# · .NET 8 · ASP.NET · REST APIs</td>
+    </tr>
+    <tr>
+      <td><strong>Frontend Engineering</strong></td>
+      <td>TypeScript · Vue 3 · Pinia · Vite</td>
+    </tr>
+    <tr>
+      <td><strong>AI &amp; Cloud</strong></td>
+      <td>Google Cloud Document AI · OCR · LLM Integration</td>
+    </tr>
+    <tr>
+      <td><strong>Developer Tooling</strong></td>
+      <td>.NET CLI · NuGet · GitHub Actions</td>
+    </tr>
+    <tr>
+      <td><strong>Software Design</strong></td>
+      <td>Clean Architecture · SOLID · DDD · MAUI</td>
+    </tr>
+    <tr>
+      <td><strong>Scripting &amp; Data</strong></td>
+      <td>Python · JavaScript · JSON · PHP</td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -62,14 +88,14 @@ Every project in this organisation is driven by a commitment to **Clean Architec
 <tr>
 <td width="100%">
 
-**[Contract Companion](https://github.com/tombomeke-ehb/Contract-Companion)**
+<strong><a href="https://github.com/tombomeke-ehb/Contract-Companion">Contract Companion</a></strong>
 
 An intelligent contract analysis platform that bridges the gap between raw legal documents and actionable insights. Users upload PDF or Word contracts which are processed through OCR and analysed by AI to surface risk clauses, renewal deadlines, and termination conditions. A live dashboard provides an overview of all active contracts with automated reminder notifications — making complex legal documents accessible to freelancers and non-lawyers alike.
 
-![Vue](https://img.shields.io/badge/Vue_3-Frontend-42B883?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Document_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![OCR](https://img.shields.io/badge/AI-OCR_%26_LLM-e94560?style=flat-square)
+<img src="https://img.shields.io/badge/Vue_3-Frontend-42B883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue 3" />
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Google_Cloud-Document_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud Document AI" />
+<img src="https://img.shields.io/badge/AI-OCR_%26_LLM-e94560?style=flat-square" alt="AI: OCR & LLM" />
 
 </td>
 </tr>
@@ -83,13 +109,13 @@ An intelligent contract analysis platform that bridges the gap between raw legal
 <tr>
 <td width="100%">
 
-**[ReadmeSync](https://github.com/tombomeke-ehb/ReadmeSync)** — *Published on NuGet*
+<strong><a href="https://github.com/tombomeke-ehb/ReadmeSync">ReadmeSync</a></strong> — <em>Published on NuGet</em>
 
-A .NET global CLI tool that eliminates documentation debt by automatically generating consistent `README.md` and `ROADMAP.md` files. ReadmeSync analyses the structure of a repository — scanning namespaces, project files, and code patterns — and produces well-structured documentation without manual effort. Designed for developers who believe documentation is a first-class engineering concern.
+A .NET global CLI tool that eliminates documentation debt by automatically generating consistent <code>README.md</code> and <code>ROADMAP.md</code> files. ReadmeSync analyses the structure of a repository — scanning namespaces, project files, and code patterns — and produces well-structured documentation without manual effort. Designed for developers who believe documentation is a first-class engineering concern.
 
-![C#](https://img.shields.io/badge/C%23-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![NuGet](https://img.shields.io/badge/NuGet-Available-004880?style=flat-square&logo=nuget&logoColor=white)
-![CLI](https://img.shields.io/badge/Tool-CLI-111111?style=flat-square)
+<img src="https://img.shields.io/badge/C%23-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/NuGet-Available-004880?style=flat-square&logo=nuget&logoColor=white" alt="NuGet" />
+<img src="https://img.shields.io/badge/Tool-CLI-111111?style=flat-square" alt="CLI" />
 
 </td>
 </tr>
@@ -103,14 +129,14 @@ A .NET global CLI tool that eliminates documentation debt by automatically gener
 <tr>
 <td width="100%">
 
-**[RPG Manager](https://github.com/tombomeke-ehb/RPGManager)**
+<strong><a href="https://github.com/tombomeke-ehb/RPGManager">RPG Manager</a></strong>
 
 A modular RPG framework in C# that serves as a living reference architecture for Clean Architecture and separation of concerns. The system models characters, inventories, weapons, and world state through well-defined domain layers. Persistence is handled via a JSON-based save system, with a .NET MAUI GUI in active development to demonstrate cross-platform UI integration. A benchmark for scalable, domain-driven C# design.
 
-![C#](https://img.shields.io/badge/C%23-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Architecture](https://img.shields.io/badge/Pattern-Clean_Architecture-111111?style=flat-square)
-![JSON](https://img.shields.io/badge/Storage-JSON-F7DF1E?style=flat-square&logo=json&logoColor=black)
+<img src="https://img.shields.io/badge/C%23-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# .NET 8" />
+<img src="https://img.shields.io/badge/.NET-MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+<img src="https://img.shields.io/badge/Pattern-Clean_Architecture-111111?style=flat-square" alt="Pattern: Clean Architecture" />
+<img src="https://img.shields.io/badge/Storage-JSON-F7DF1E?style=flat-square&logo=json&logoColor=black" alt="Storage: JSON" />
 
 </td>
 </tr>
@@ -124,23 +150,23 @@ A modular RPG framework in C# that serves as a living reference architecture for
 <tr>
 <td width="48%">
 
-**[Portfolio](https://github.com/tombomeke/Portfolio)** — *[Live at tombomeke.com](https://tombomeke.com)*
+<strong><a href="https://github.com/tombomeke/Portfolio">Portfolio</a></strong> — <em><a href="https://tombomeke.com">Live at tombomeke.com</a></em>
 
 Personal portfolio website with a custom PHP backend, showcasing projects, skills, and professional background. Built from scratch without frameworks to demonstrate core web fundamentals and server-side logic.
 
-![PHP](https://img.shields.io/badge/PHP-8-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white)
+<img src="https://img.shields.io/badge/PHP-8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-Frontend-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
 
 </td>
 <td width="4%"></td>
 <td width="48%">
 
-**[Recipe Manager API](https://github.com/tombomeke-ehb/backend-web-api)**
+<strong><a href="https://github.com/tombomeke-ehb/backend-web-api">Recipe Manager API</a></strong>
 
 A RESTful API for managing recipes, built to explore ASP.NET Core patterns including controller design, data access layers, and API versioning conventions.
 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![REST](https://img.shields.io/badge/API-REST-111111?style=flat-square)
+<img src="https://img.shields.io/badge/ASP.NET-Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+<img src="https://img.shields.io/badge/API-REST-111111?style=flat-square" alt="REST API" />
 
 </td>
 </tr>
@@ -200,7 +226,7 @@ Have a project in mind? Open an issue in any relevant repository, or reach out d
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" alt="Tombomeke Studios footer banner" />
 
 *Built with precision. Architected for scale.*
 
